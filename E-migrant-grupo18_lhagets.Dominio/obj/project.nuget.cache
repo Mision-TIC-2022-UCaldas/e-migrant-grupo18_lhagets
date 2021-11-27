@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1+fyO4E9LQQ17O664kN6fb24azY3VcIZK8TcWQ9s1SAqFIbWCzlEwMDW5Dsu8MXFA68OUr9Rsq5e08DmZeIfNA==",
+  "success": true,
+  "projectFilePath": "H:\\Documentos\\Hackathon\\E_Migrant\\e-migrant-grupo18_lhagets\\E-migrant-grupo18_lhagets.Dominio\\E-migrant-grupo18_lhagets.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JIGB\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JIGB\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p3kStOUiOmlUeF5cv0CsfyX8kQ2EwDKarkwx+CEFbnox8p0o0sRLWMlg6xCFKTrhtmNE12bX3xML9/7s9N8Q/g==",
+  "success": true,
+  "projectFilePath": "E:\\hakaton_caldas\\e-migrant-grupo18_lhagets\\e-migrant-grupo18_lhagets.App.Servicios\\e-migrant-grupo18_lhagets.App.Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
